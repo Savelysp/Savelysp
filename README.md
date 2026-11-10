@@ -34,6 +34,7 @@ Small tools, clean configs, and a terminal-first workflow.
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
   <br />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&amp;logo=lua&amp;logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Lisp-000000?style=flat-square&amp;logo=commonlisp&amp;logoColor=white" alt="Lisp" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
@@ -43,6 +44,7 @@ Small tools, clean configs, and a terminal-first workflow.
 ### Currently
 
 - Building **[tally-bot](https://github.com/Savelysp/tally-bot)** — a Telegram bot for strength training.
+- Building **[calendar-assistant](https://github.com/Savelysp/calendar-assistant)** — an app for manage data from google calendar.
 - Maintaining **[.dotfiles](https://github.com/Savelysp/.dotfiles)** — a declarative NixOS + niri setup.
 
 ### Selected work
@@ -51,7 +53,8 @@ Small tools, clean configs, and a terminal-first workflow.
   `Python` `PostgreSQL` `Docker` `uv`
 - **[.dotfiles](https://github.com/Savelysp/.dotfiles)** — NixOS, niri and Neovim, managed with flakes, Home Manager and GNU Stow.
   `Nix` `Lua` `Shell`
-- **[trapezia_bot](https://github.com/Savelysp/trapezia_bot)** — Telegram booking bot with services, appointments and an admin panel.
+- **[calendar-assistant](https://github.com/Savelysp/calendar-assistant)** — planned.
+- **[trapezia_bot](https://github.com/Savelysp/trapezia_bot)** — (DEFERRED) Telegram booking bot with services, appointments and an admin panel.
   `Python` `PostgreSQL` `Redis` `Docker`
 
 ---
